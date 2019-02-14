@@ -1,8 +1,8 @@
 # CS544 Project
 # Author: Fangge You
 ###########################################################################################
-setwd("D:/Graduate1/CS544/Project")
-dir()
+#setwd("D:/Graduate1/CS544/Project")
+#dir()
 
 charges = read.csv("inpatientCharges.csv", header = TRUE)
 charges
